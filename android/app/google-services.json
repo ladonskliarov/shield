@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175715685995",
+    "project_id": "shield-ua-1",
+    "storage_bucket": "shield-ua-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175715685995:android:8f494592641df8f8ef032e",
+        "android_client_info": {
+          "package_name": "com.example.shield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvz7ZipNNW6JirwLG-XixI9VkcrssUSpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
